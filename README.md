@@ -1,7 +1,7 @@
-# cbranteix
+# Carlos Brandão Teixeira
 
 
-
+Carlos Brandão Teixeira, Arquiteto formado pela UNIP em 1997, tenho experiência em projetos de arquitetura, coordenação de obras e desenho utilizando AutoCad. Fui responsável como diretor de projetos e proprietário do escritório entre 1997 a 2016. Atualmente estou me dedicando a tecnologia da informação, resolvi mudar de carreira e estou participando do curso Gama Academy Front-End para aprimorar meu conhecimento na área de TI. 
 
 <a href="https://github.com/cbranteix">
  <img style="border-radius: 50%;" src="https://github.com/cbranteix/CBT_G5/blob/main/img/imgft.jpeg" width="100px;" alt=""/>
