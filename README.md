@@ -26,12 +26,12 @@ Sistema de treinamento - Gama Academy - Todos o módulos em vídeo-aulas foram d
 ## 🎨 Layout
 
 <p align="center">
-  <img style="border-radius: 50%;" src="https://github.com/cbranteix/CBT_G5/blob/main/img/layoutDev1.jpg" width="600px;" alt=""/>
+  <img style="border-radius: 50%;" src="https://github.com/cbranteix/cbranteix/blob/main/layoutDev1.jpg" width="600px;" alt=""/>
 </p>
 
 ##
 <a href="https://github.com/cbranteix">
- <img style="border-radius: 50%;" src="https://github.com/cbranteix/CBT_G5/blob/main/img/imgft.jpeg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/cbranteix/cbranteix/blob/main/imgft.jpeg" width="100px;" alt=""/>
  <br />
  <sub><b>Carlos Brandão Teixeira</b></sub></a> 🚀</a>
  <br />
