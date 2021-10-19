@@ -8,22 +8,30 @@ Carlos Brandão Teixeira, Arquiteto formado pela UNIP em 1997, tenho experiênci
 
 Ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([Visual Studio Code](https://visualstudio.microsoft.com/pt-br/)  +  [GitHub Desktop](https://desktop.github.com/))
+#### **Download**  ([Visual Studio Code](https://visualstudio.microsoft.com/pt-br/)  +  [GitHub Desktop](https://desktop.github.com/))
 
+```
 💡 Como aprendeu?
+```
 
 Sistema de treinamento - Gama Academy - Todos o módulos em vídeo-aulas foram disponibilizados com legenda e Libras. 
 
-- Módulo 1: Lógica de Programação
-- Módulo 2: MetodoloĀias Ágeis
-- Módulo 3: : GIT
-- Módulo 4: HTML e CSS
-- Módulo 5: Bootstrap
-- Módulo 6: Estrutura de dados
-- Módulo 7: Introdução ao Javascript
-- Módulo 8: Javascript Intermediário  
+- `Módulo 1`: **Lógica de Programação**
+- `Módulo 2`: **Metodologias Ágeis**
+- `Módulo 3`: **GIT**
+- `Módulo 4`: **HTML e CSS**
+- `Módulo 5`: **Bootstrap**
+- `Módulo 6`: **Estrutura de dados**
+- `Módulo 7`: **Introdução ao Javascript**
+- `Módulo 8`: **Javascript Intermediário**
+
 
 ## 🎨 Layout
+
+Projeto Final Itaú Formação Tech 5º Edição {pessoas com deficiência}
+
+Este projeto foi desenvolvido o desafio pela Gama Academy. Este repositório [Dev Tech5 Itau](https://github.com/lipecorrales/devtech5-v2) que contém os códigos de um site que apresenta de um [site](https://devtech5itau.netlify.app/) sobre noticias do COVID-19.
+
 
 <p align="center">
   <img style="border-radius: 50%;" src="https://github.com/cbranteix/cbranteix/blob/main/layoutDev1.jpg" width="600px;" alt=""/>
